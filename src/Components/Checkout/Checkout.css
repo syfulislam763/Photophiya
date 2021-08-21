@@ -1,0 +1,28 @@
+
+
+.checkout-wrapper{
+    width: 70%;
+    margin: 30px auto;
+}
+
+.checkout-h{
+    color: gray;
+    font-weight: 100;
+    margin: 0px;
+    padding: 0px;
+}
+
+.form-div{
+    width: 80%;
+    margin: 30px auto;
+}
+
+.c-m{
+    margin: 30px 0px;
+}
+
+@media only screen and (max-width: 768px) {
+    .checkout-wrapper{
+        width: 100%;
+    }
+}

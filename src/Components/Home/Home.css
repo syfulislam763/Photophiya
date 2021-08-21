@@ -1,0 +1,35 @@
+.home-wrapper{
+    text-align: center;
+}
+
+.caption{
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+.caption p{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 100;
+    color: gray;
+    
+}
+.highlight-w{
+    font-weight: 700;
+}
+
+.carousel{
+    width: 80%;
+    margin: 40px auto;
+}
+
+.service-container{
+    width: 85%;
+    margin: 30px auto;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .caption{font-size: 1.2em;}
+}
+  

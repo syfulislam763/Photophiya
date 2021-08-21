@@ -1,0 +1,32 @@
+
+
+.add-service-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.add-service-wrapper{
+    padding: 0px 30px;
+    color: gray;
+}
+
+.add-service-form{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    padding: 20px;
+}
+
+.error-style{
+    font-size: 11px;
+    color: red;
+    margin: 0px;
+    padding: 0px;
+}
+
+.form-field{
+    
+}

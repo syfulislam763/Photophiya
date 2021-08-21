@@ -1,0 +1,12 @@
+
+.container{
+    width: 90%;
+    margin: 10px auto;
+}
+
+.auth-btn{
+    text-align: right;
+    color: gray;
+    font-weight: 100;
+    cursor: pointer;
+}
